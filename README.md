@@ -11,10 +11,10 @@ Cada pasta contém materiais, projetos e anotações específicas da disciplina 
 | Disciplina                    | Tipo          | Progresso  | Link                                             |
 |-------------------------------|---------------|------------|--------------------------------------------------|
 | Tópicos de Big Data em Python | Digital (EAD) |       100% | [BigData-Python](./BigData-Python)               |
-| Modelagem de Sistemas em UML  | Digital (EAD) |        67% | [UML-Modelagem](./UML-Modelagem)                 |
-| Gerência de Configuração      | Digital (EAD) |        25% | [Gerencia-Configuracao](./Gerencia-Configuracao) |
-| Arquitetura de Sistemas       | Digital (EAD) |        50% | [Arquitetura-Sistemas](./Arquitetura-Sistemas)   |
-| Banco de Dados NoSQL          | Ao Vivo       |        43% | [BancoDeDados-NoSQL](./BancoDeDados-NoSQL)       |
+| Modelagem de Sistemas em UML  | Digital (EAD) |       100% | [UML-Modelagem](./UML-Modelagem)                 |
+| Gerência de Configuração      | Digital (EAD) |       100% | [Gerencia-Configuracao](./Gerencia-Configuracao) |
+| Arquitetura de Sistemas       | Digital (EAD) |       100% | [Arquitetura-Sistemas](./Arquitetura-Sistemas)   |
+| Banco de Dados NoSQL          | Ao Vivo       |       100% | [BancoDeDados-NoSQL](./BancoDeDados-NoSQL)       |
 
 ---
 
